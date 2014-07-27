@@ -21,7 +21,7 @@ This project includes the following files:
 
 ### About run_analysis.R
 
-To use the script, you must have the Samsung data in your working directory (or follow the commented instructions at the beginning fo the file to download the data).  Typing source("run_analysis.R") and hitting <return> will produce the file tidy.txt
+To use the script, you must have the Samsung data in your working directory (or follow the commented instructions at the beginning fo the file to download the data).  Typing source("run_analysis.R") and hitting return will produce the file tidy.txt
 
 As explained in the comments in run_analysis.R, this script merges the training and test sets (from the Samsung data), extracts only measurements of the mean and standard deviation of each variable, assigns descriptive variable names, labels the activities with descriptive names, and creates a tidy data set, tidy.txt, with average of each variable for each activity and each subject
 
