@@ -9,7 +9,7 @@ This is a code book for tidy.txt.  This code book describes the variables in tid
 
 *"Activity": the activity being performed.  There are 6 activities: LAYING, SITTING, STANDING, WALKING, WALKING DOWNSTAIRS, WALKING UPSTAIRS
 
-*There are 66 variables that give the average (for a given subject and activity) of a particular measurement on the mean or standard deviation of the Samsung data.  The variable names in tidy.txt are modified (more descriptive and all lower case) versions of the variable names in the features\_info.txt (available at the url above).  Note that the measurements are normalized and bounded within [-1, 1] (so we don't need to be concerned with units for these variables).
+*There are 66 variables that give the average (for a given subject and activity) of a particular measurement on the mean or standard deviation of the Samsung data.  The variable names in tidy.txt are modified (more descriptive and all lower case) versions of the variable names in the features\_info.txt (available at the url above).  Note that the measurements are normalized and bounded within \[-1, 1\] (so we don't need to be concerned with units for these variables).
 (All measurements used to produce these averages were obtained as described in features\_info.txt.)  More precisely:
 
 1. Names beginning with "time" concern time domain signals captured at a constant rate of 50 Hz.  
